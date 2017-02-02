@@ -21,7 +21,7 @@ but [9,10] will never be. Also if you play an invalid move or your code exceeds 
 
 Starting state:
 
-The starting state of the game is the state of the board before the game starts.
+The starting state of the game is the state of the board before the game starts
 1 0 0 0 0 0 2
 0 0 0 0 0 0 0
 0 0 0 0 0 0 0
@@ -32,7 +32,7 @@ The starting state of the game is the state of the board before the game starts.
 
 First Input: 
 
-This is the input give to the first player at the start of the game.
+This is the input give to the first player at the start of the game
 1 0 0 0 0 0 2
 0 0 0 0 0 0 0
 0 0 0 0 0 0 0
