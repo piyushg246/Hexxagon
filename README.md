@@ -1,6 +1,5 @@
 # Hexxagon
 
-
 Hexxagon is a two player board game which is played on a 6X7 grid of cells. Each player has an allocated color, Red ( First Player ) or White ( Second Player ) being conventional.
 The board is customised. Instead of square board, there will be a rectangular board with hexagonal cells. 
 
@@ -20,7 +19,8 @@ You must take care that you don't print invalid coordinates.
 For example, [1,1] might be a valid coordinate in the game play if [1,1] is adjacent or is at two spaces away from the piece that you are going to move, 
 but [9,10] will never be. Also if you play an invalid move or your code exceeds the time/memory limit while determining the move, you lose the game.
 
-Starting state
+Starting state:
+
 The starting state of the game is the state of the board before the game starts.
 1 0 0 0 0 0 2
 0 0 0 0 0 0 0
@@ -30,7 +30,8 @@ The starting state of the game is the state of the board before the game starts.
 2 0 0 0 0 0 1
 0
 
-First Input
+First Input: 
+
 This is the input give to the first player at the start of the game.
 1 0 0 0 0 0 2
 0 0 0 0 0 0 0
