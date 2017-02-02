@@ -52,4 +52,4 @@ It also displays the depth of the search tree.
 
 
 I won runner-up prize in Battle of Bots 8.
-I have improved the code a bit and I am now able to reach much higher depths for deciding the bes move.
+I have improved the code a bit and I am now able to reach much higher depths for deciding the best move.
