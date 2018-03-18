@@ -47,6 +47,9 @@ The time limit is 1 second and memory limit is 256MB.
 For better understanding, see : 
 https://www.hackerearth.com/problem/multiplayer/hexxagon/
 ( Problem for the battle of Bots 8 competition )
+and this: https://www.hackerearth.com/submission/7061262/ 
+(Sample game and submission)
+
 The AI code file takes as input a board state, a player id and output the move coordinates.
 It also displays the depth of the search tree.
 
